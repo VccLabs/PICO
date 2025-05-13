@@ -1,3 +1,3 @@
 # PICO
 
-The repo is still under construction, all related files will be released very soon!
+This repo is still under construction, all related files will be released very soon!
