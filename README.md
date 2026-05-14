@@ -18,7 +18,7 @@ This repo is still under construction, all related files will be released very s
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 **PICO**: a tiny but powerful Arduino-compatible development board built for makers who don't want to compromise. Measuring just **17.78 × 15.24 mm (0.7" × 0.6")**, PICO is small enough to disappear into wearables, drones, and pocket-sized prototypes, yet packs enough capability to drive serious projects.
 
@@ -65,7 +65,7 @@ PICO is **open source** by design. All schematics, PCB layouts, and source files
 
 ---
 
-## 📌 Pinout
+## Pinout
 
 <div align="center">
 
@@ -99,7 +99,7 @@ PICO is **open source** by design. All schematics, PCB layouts, and source files
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install the Arduino IDE
 
